@@ -1,0 +1,10 @@
+name 'kbrezina-dashboard_dev'
+version '0.0.1'
+
+author 'fhrbek'
+license ''
+project_page ''
+source ''
+summary ''
+description ''
+dependency 'kbrezina/mysql', '>=0.1.0'

@@ -1,3 +1,4 @@
 name 'kbrezina-mysql_role'
 version '0.0.0'
 
+dependency 'kbrezina/mysql', '>=0.1.0'
